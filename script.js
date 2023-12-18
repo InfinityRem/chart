@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
     // Данные для графика
-    var dates = ['2023-01-01', '2023-01-02', '2023-01-03', '2023-01-04', '2023-01-05', '2023-01-06'];
+    var dates = ['09:00', '10:00', '11:00', '12:00', '13:00', '14:00'];
     var depths = [10, 20, 30];
     var productionPlan = [8, 10, 15];
     var hourlyProduction = [2, 5, 10];
